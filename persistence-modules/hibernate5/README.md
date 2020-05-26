@@ -1,21 +1,15 @@
-## Relevant articles:
+## Hibernate 5
 
-- [Dynamic Mapping with Hibernate](http://www.baeldung.com/hibernate-dynamic-mapping)
-- [An Overview of Identifiers in Hibernate](http://www.baeldung.com/hibernate-identifiers)
-- [Hibernate – Mapping Date and Time](http://www.baeldung.com/hibernate-date-time)
-- [Hibernate Inheritance Mapping](http://www.baeldung.com/hibernate-inheritance)
-- [A Guide to Multitenancy in Hibernate 5](http://www.baeldung.com/hibernate-5-multitenancy)
-- [Introduction to Hibernate Spatial](http://www.baeldung.com/hibernate-spatial)
-- [Hibernate Interceptors](http://www.baeldung.com/hibernate-interceptor)
-- [JPA Attribute Converters](http://www.baeldung.com/jpa-attribute-converters)
-- [Mapping LOB Data in Hibernate](http://www.baeldung.com/hibernate-lob)
-- [@Immutable in Hibernate](http://www.baeldung.com/hibernate-immutable)
-- [Pessimistic Locking in JPA](http://www.baeldung.com/jpa-pessimistic-locking)
-- [Bootstrapping JPA Programmatically in Java](http://www.baeldung.com/java-bootstrap-jpa)
-- [Optimistic Locking in JPA](http://www.baeldung.com/jpa-optimistic-locking)
+This module contains articles about Hibernate 5. Let's not add more articles here, we should not be creating a -2 out of it. Please add to other existing hibernate-* modules, or create a new one.
+
+### Relevant articles:
+
+- [An Overview of Identifiers in Hibernate](https://www.baeldung.com/hibernate-identifiers)
+- [Hibernate Interceptors](https://www.baeldung.com/hibernate-interceptor)
 - [Hibernate Entity Lifecycle](https://www.baeldung.com/hibernate-entity-lifecycle)
-- [Mapping A Hibernate Query to a Custom Class](https://www.baeldung.com/hibernate-query-to-custom-class)
-- [@JoinColumn Annotation Explained](https://www.baeldung.com/jpa-join-column)
 - [Hibernate 5 Naming Strategy Configuration](https://www.baeldung.com/hibernate-naming-strategy)
 - [Proxy in Hibernate load() Method](https://www.baeldung.com/hibernate-proxy-load-method)
-- [Custom Types in Hibernate](https://www.baeldung.com/hibernate-custom-types)
+- [Hibernate 5 Bootstrapping API](https://www.baeldung.com/hibernate-5-bootstrapping-api)
+- [Guide to the Hibernate EntityManager](https://www.baeldung.com/hibernate-entitymanager)
+- [Using c3p0 with Hibernate](https://www.baeldung.com/hibernate-c3p0)
+- [Persist a JSON Object Using Hibernate](https://www.baeldung.com/hibernate-persist-json-object)
